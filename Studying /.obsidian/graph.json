@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag: #Biochemistry  ",
+      "color": {
+        "a": 1,
+        "rgb": 12485826
+      }
+    },
+    {
+      "query": "tag:#Psychology  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#VertebrateZoology  ",
+      "color": {
+        "a": 1,
+        "rgb": 13074840
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 1.1,
+  "nodeSizeMultiplier": 1.50529233870968,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": true,
+  "centerStrength": 0.80241935483871,
+  "repelStrength": 13.6500336021505,
+  "linkStrength": 0.208837365591398,
+  "linkDistance": 285,
+  "scale": 1.762546476005163,
+  "close": false
+}
