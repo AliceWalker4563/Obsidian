@@ -31,5 +31,6 @@
     "editor:insert-link",
     "editor:open-link-in-new-split"
   ],
-  "mobilePullAction": "editor:save-file"
+  "mobilePullAction": "editor:save-file",
+  "alwaysUpdateLinks": true
 }

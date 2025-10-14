@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "85541f45c7818d6f",
+        "id": "5814dfb64781940a",
         "type": "tabs",
         "children": [
           {
-            "id": "8efe2e9c6f8228d4",
+            "id": "faf7f6056ec628c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cytology/Цитоскелет (TO ADD MORE).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Цитоскелет (TO ADD MORE)"
+            }
+          },
+          {
+            "id": "78f37fa7cb8a19af",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -18,17 +32,31 @@
             }
           },
           {
-            "id": "63b088a6c935a24b",
+            "id": "13b27cffe06a567c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cytology/Цитоплазма и строение биологических мембран.md",
+                "file": "Physiology/Параметры возбудимости ткани.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Цитоплазма и строение биологических мембран"
+              "title": "Параметры возбудимости ткани"
+            }
+          },
+          {
+            "id": "c614a40eb9949e2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physiology/Физиология мышечного сокращения.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Физиология мышечного сокращения"
             }
           }
         ],
@@ -60,7 +88,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#psychology",
+            "query": "tag:#Physiology",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -97,7 +125,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "88718f8534e8081b",
@@ -109,7 +137,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cytology/Цитоплазма и строение биологических мембран.md",
+            "file": "Потенциал действия.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -164,14 +192,30 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "2a7cd1bc432d78f7",
+  "active": "78f37fa7cb8a19af",
   "lastOpenFiles": [
-    "Cytology/Контакты.md",
+    "Physiology/Физиология мышечного сокращения.md",
+    "Physiology/Параметры возбудимости ткани.md",
+    "Рictures/IMG_20251014_155015.jpg",
+    "Рictures/IMG_20251014_155033.jpg",
+    "Physiology/Изменение возбудимости во время возбуждения.md",
+    "Physiology/Полярный закон.md",
+    "Рictures/IMG_20251014_154035.jpg",
+    "Рictures/IMG_20251014_153404.jpg",
+    "Physiology/Потенциал действия.md",
+    "Рictures/IMG_20251014_151919.jpg",
+    "Physiology/Ионные каналы.md",
+    "Physiology/Потенциал покоя.md",
+    "Physiology",
+    "Cytology/Цитоскелет (TO ADD MORE).md",
+    "Psychology/Конфликты. Педагогический конфликт.md",
+    "Cytology/Определение клетки.md",
     "Cytology/Цитоплазма и строение биологических мембран.md",
-    "Cytology/Основные гипотезы происхождения клетки.md",
     "Cytology/Функции мембраны.md",
-    "Cytology/Цитоскелет.md",
-    "Тип Хордовые.md",
+    "Cytology/Контакты (ONGOING).md",
+    "Biochemistry ENG/Enzymes.md",
+    "Cytology/Основные гипотезы происхождения клетки.md",
+    "Vertebrate zoology/Тип Хордовые.md",
     "Vertebrate zoology/Классификация типа Хордовые.md",
     "Cytology",
     "Biochemistry RU/Нуклеиновые кислоты/Общая характеристика НК. Нуклеотиды.md",
@@ -182,36 +226,22 @@
     "Рictures/IMG_20251013_195200 1.jpg",
     "Рictures/IMG_20251013_195240 1.jpg",
     "Рictures/IMG_20251013_195253 1.jpg",
-    "Рictures/IMG_20251013_195310 1 1.jpg",
-    "Рictures/IMG_20251013_195323 1.jpg",
-    "Рictures/IMG_20251013_195310 1.jpg",
-    "Рictures/IMG_20251013_195323.jpg",
-    "Рictures/IMG_20251013_195310.jpg",
     "202510132001.md",
     "Biochemistry RU/Белки. Аминокислоты/Орнитиновый цикл.md",
     "Vertebrate zoology/Костные рыбы.md",
     "Vertebrate zoology/Хрящевые рыбы.md",
     "Vertebrate zoology/Миноги и миксины.md",
     "Psychology/Психология как наука.md",
-    "Psychology/Введение в психологию.md",
     "Biochemistry RU/Нуклеиновые кислоты",
     "Biochemistry RU/Белки. Аминокислоты",
     "Vertebrate zoology",
-    "Psychology/Конфликты. Педагогический конфликт.md",
     "Psychology",
     "Untitled.base",
     "Untitled.canvas",
-    "Biochemistry RU/Белки. Аминокислоты/Аминокислоты.md",
-    "Biochemistry RU/Белки. Аминокислоты/Введение в биохимию.md",
-    "Biochemistry ENG/Enzymes.md",
-    "Biochemistry RU/Белки. Аминокислоты/Белки. Структуры белка.md",
-    "Biochemistry RU/Белки. Аминокислоты/Обмен азота. Пути синтеза аминокислот.md",
-    "().md",
     "Pictures/Enzymes board.canvas",
     "Biochemistry ENG",
     "Рictures",
     "Кукукукукукузураузкраразазазазза.canvas",
-    "Biochemistry RU",
-    "2025-10-12.md"
+    "Biochemistry RU"
   ]
 }
