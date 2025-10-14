@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 13074840
       }
+    },
+    {
+      "query": "tag:#Cytology  ",
+      "color": {
+        "a": 1,
+        "rgb": 7530667
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 13.6500336021505,
   "linkStrength": 0.208837365591398,
   "linkDistance": 285,
-  "scale": 1.762546476005163,
-  "close": false
+  "scale": 1.5158534486352018,
+  "close": true
 }
