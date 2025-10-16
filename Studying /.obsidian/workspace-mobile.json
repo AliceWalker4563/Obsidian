@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f80653421cdb3aa6",
+            "id": "aeadaf7a2ea2fa7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biochemistry КОЛОК/Билет 3 (ONGOING).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Билет 3 (ONGOING)"
+              "title": "New tab"
             }
           }
         ]
@@ -153,7 +149,7 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "f80653421cdb3aa6",
+  "active": "aeadaf7a2ea2fa7e",
   "lastOpenFiles": [
     "Biochemistry КОЛОК/Билет 2.md",
     "Biochemistry КОЛОК/Билет 3 (ONGOING).md",
