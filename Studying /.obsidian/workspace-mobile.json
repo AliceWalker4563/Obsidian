@@ -8,63 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e394c482be5aa61c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biochemistry КОЛОК/Билет 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Билет 3"
-            }
-          },
-          {
-            "id": "beffd1f3acc685b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biochemistry КОЛОК/Билет 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Билет 1"
-            }
-          },
-          {
-            "id": "cf544bae75f19a62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biochemistry КОЛОК/Билет 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Билет 4"
-            }
-          },
-          {
             "id": "98a189bc78812b36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biochemistry КОЛОК/Билет 5 (ONGOING).md",
+                "file": "Biochemistry КОЛОК/Билет 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Билет 5 (ONGOING)"
+              "title": "Билет 5"
+            }
+          },
+          {
+            "id": "fb284f08df82c712",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +109,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Biochemistry КОЛОК/Билет 3 (ONGOING).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -196,41 +163,43 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "2a7cd1bc432d78f7",
+  "active": "fb284f08df82c712",
   "lastOpenFiles": [
-    "Biochemistry КОЛОК/Билет 5 (ONGOING).md",
+    "Biochemistry КОЛОК/Билет 1.md",
+    "Biochemistry КОЛОК/Билет 6 (ONGOING).md",
+    "Biochemistry КОЛОК/Билет 5.md",
     "Biochemistry КОЛОК/Билет 4.md",
+    "Biochemistry КОЛОК/Билет 3.md",
+    "Biochemistry КОЛОК/Билет 2.md",
+    "Untitled.canvas",
+    "Biochemistry RU/Белки. Аминокислоты/Белки. Структуры белка.md",
+    "Рictures/IMG_20251017_171502.jpg",
+    "Рictures/IMG_20251017_165204.jpg",
+    "Рictures/IMG_20251017_164032.jpg",
+    "Рictures/IMG_20251017_164045.jpg",
+    "Рictures/IMG_20251017_155800.jpg",
+    "Рictures/IMG_20251017_141355.jpg",
+    "Рictures/Untitled493_20250911114303.jpg",
+    "Рictures/IMG_20251013_195310 1 1.jpg",
     "Рictures/IMG_20251017_111438.jpg",
     "Рictures/IMG_20251017_105626.jpg",
-    "Рictures/IMG_20251017_105342.jpg",
-    "Рictures/IMG_20251017_105326.jpg",
-    "Biochemistry RU/Белки. Аминокислоты/Белки. Структуры белка.md",
-    "Biochemistry КОЛОК/Билет 1.md",
-    "Biochemistry КОЛОК/Билет 2.md",
-    "Biochemistry КОЛОК/Билет 3.md",
     "Vertebrate zoology/Костные рыбы.md",
     "Vertebrate zoology КОЛОК/Системы органов",
     "Vertebrate zoology КОЛОК",
-    "Рictures/IMG_20251016_101305.jpg",
     "Билет 3.md",
     "Билет 2 (ONGOING).md",
     "Biochemistry RU/Белки. Аминокислоты/Ферменты.md",
     "Biochemistry RU/Белки. Аминокислоты/Аминокислоты.md",
     "Biochemistry RU/Белки. Аминокислоты/Обмен азота. Пути синтеза аминокислот.md",
     "Cytology/Цитоскелет (TO ADD MORE).md",
-    "Рictures/IMG_20251014_203240.jpg",
     "Biochemistry RU/Белки. Аминокислоты/Орнитиновый цикл.md",
     "Biochemistry КОЛОК",
     "Physiology/Мышцы/Физиология мышечного сокращения (ONGOING).md",
     "Physiology/Мышцы",
     "Physiology/Физиология возбудимых тканей",
     "Physiology/Физиология возбудимых тканей/Параметры возбудимости ткани.md",
-    "Рictures/IMG_20251014_155015.jpg",
-    "Рictures/IMG_20251014_155033.jpg",
     "Physiology/Физиология возбудимых тканей/Изменение возбудимости во время возбуждения.md",
     "Physiology/Физиология возбудимых тканей/Полярный закон.md",
-    "Рictures/IMG_20251014_154035.jpg",
-    "Рictures/IMG_20251014_153404.jpg",
     "Physiology/Физиология возбудимых тканей/Потенциал действия.md",
     "Physiology/Физиология возбудимых тканей/Ионные каналы.md",
     "Physiology/Физиология возбудимых тканей/Потенциал покоя.md",
@@ -239,12 +208,10 @@
     "Cytology/Определение клетки.md",
     "Cytology/Цитоплазма и строение биологических мембран.md",
     "Cytology/Функции мембраны.md",
-    "Cytology/Контакты (ONGOING).md",
     "Cytology",
     "Biochemistry RU/Нуклеиновые кислоты",
     "Biochemistry RU/Белки. Аминокислоты",
     "Vertebrate zoology",
-    "Untitled.canvas",
     "Pictures/Enzymes board.canvas",
     "Кукукукукукузураузкраразазазазза.canvas"
   ]
