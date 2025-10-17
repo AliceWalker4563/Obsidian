@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biochemistry КОЛОК/Билет 4 (ONGOING).md",
+                "file": "Biochemistry КОЛОК/Билет 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Билет 4 (ONGOING)"
+              "title": "Билет 4"
+            }
+          },
+          {
+            "id": "98a189bc78812b36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biochemistry КОЛОК/Билет 5 (ONGOING).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Билет 5 (ONGOING)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -182,12 +196,18 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "beffd1f3acc685b8",
+  "active": "2a7cd1bc432d78f7",
   "lastOpenFiles": [
-    "Biochemistry КОЛОК/Билет 2.md",
+    "Biochemistry КОЛОК/Билет 5 (ONGOING).md",
+    "Biochemistry КОЛОК/Билет 4.md",
+    "Рictures/IMG_20251017_111438.jpg",
+    "Рictures/IMG_20251017_105626.jpg",
+    "Рictures/IMG_20251017_105342.jpg",
+    "Рictures/IMG_20251017_105326.jpg",
+    "Biochemistry RU/Белки. Аминокислоты/Белки. Структуры белка.md",
     "Biochemistry КОЛОК/Билет 1.md",
+    "Biochemistry КОЛОК/Билет 2.md",
     "Biochemistry КОЛОК/Билет 3.md",
-    "Biochemistry КОЛОК/Билет 4 (ONGOING).md",
     "Vertebrate zoology/Костные рыбы.md",
     "Vertebrate zoology КОЛОК/Системы органов",
     "Vertebrate zoology КОЛОК",
@@ -196,7 +216,6 @@
     "Билет 2 (ONGOING).md",
     "Biochemistry RU/Белки. Аминокислоты/Ферменты.md",
     "Biochemistry RU/Белки. Аминокислоты/Аминокислоты.md",
-    "Biochemistry RU/Белки. Аминокислоты/Белки. Структуры белка.md",
     "Biochemistry RU/Белки. Аминокислоты/Обмен азота. Пути синтеза аминокислот.md",
     "Cytology/Цитоскелет (TO ADD MORE).md",
     "Рictures/IMG_20251014_203240.jpg",
@@ -213,7 +232,6 @@
     "Рictures/IMG_20251014_154035.jpg",
     "Рictures/IMG_20251014_153404.jpg",
     "Physiology/Физиология возбудимых тканей/Потенциал действия.md",
-    "Рictures/IMG_20251014_151919.jpg",
     "Physiology/Физиология возбудимых тканей/Ионные каналы.md",
     "Physiology/Физиология возбудимых тканей/Потенциал покоя.md",
     "Physiology",
@@ -222,11 +240,7 @@
     "Cytology/Цитоплазма и строение биологических мембран.md",
     "Cytology/Функции мембраны.md",
     "Cytology/Контакты (ONGOING).md",
-    "Biochemistry ENG/Enzymes.md",
     "Cytology",
-    "Рictures/IMG_20251013_195739.jpg",
-    "Рictures/IMG_20251013_195603.jpg",
-    "Рictures/IMG_20251013_195200 1.jpg",
     "Biochemistry RU/Нуклеиновые кислоты",
     "Biochemistry RU/Белки. Аминокислоты",
     "Vertebrate zoology",
