@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 7109560
       }
+    },
+    {
+      "query": "file:Planner",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 9.9403561827957,
   "linkStrength": 0.638944892473118,
   "linkDistance": 142,
-  "scale": 1.5521919340375607,
+  "scale": 1.2913094791165285,
   "close": true
 }
