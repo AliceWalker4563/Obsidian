@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag: #Biochemistry  ",
@@ -59,14 +59,14 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 1.1,
-  "nodeSizeMultiplier": 1.50529233870968,
+  "textFadeMultiplier": 0.7,
+  "nodeSizeMultiplier": 2.09803427419355,
   "lineSizeMultiplier": 5,
-  "collapse-forces": true,
-  "centerStrength": 0.68195564516129,
+  "collapse-forces": false,
+  "centerStrength": 0.586273521505376,
   "repelStrength": 9.9403561827957,
   "linkStrength": 0.638944892473118,
   "linkDistance": 142,
-  "scale": 1.2913094791165285,
+  "scale": 1.2496850067066092,
   "close": true
 }
