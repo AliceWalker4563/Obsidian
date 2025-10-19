@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69080fc905adc4c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cytology/Функции мембраны.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Функции мембраны"
-            }
-          },
-          {
             "id": "059b4fae44bf6fdb",
             "type": "leaf",
             "state": {
@@ -30,37 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "065df58432d229cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biochemistry КОЛОК/Билет 8 (ONGOING).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Билет 8 (ONGOING)"
-            }
-          },
-          {
-            "id": "b865f354ef295f75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biochemistry КОЛОК/Билет 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Билет 4"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,11 +149,30 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "2a7cd1bc432d78f7",
+  "active": "059b4fae44bf6fdb",
   "lastOpenFiles": [
-    "Biochemistry КОЛОК/Билет 4.md",
+    "Biochemistry RU/Нуклеиновые кислоты/Общая характеристика НК. Нуклеотиды.md",
+    "IMG_20251019_125557.jpg",
+    "Рictures/IMG_20251019_125557.jpg",
     "Biochemistry КОЛОК/Билет 8 (ONGOING).md",
+    "Cytology/Цитоскелет/Система микротрубочек.md",
+    "Cytology/Цитоскелет/Микрофибриллярная система (ONGOING).md",
+    "Cytology/Цитоскелет/Жгутики реснички всякие (ONGOING).md",
+    "Cytology/Цитоскелет/Цитоскелет.md",
+    "Cytology/Цитоскелет/Промежуточные филаменты (ONGOING).md",
+    "Cytology/Цитоплазма и мембраны/Функции мембраны.md",
+    "Cytology/Цитоплазма и мембраны/Цитоплазма и строение биологических мембран.md",
+    "Cytology/Общее/Основные гипотезы происхождения клетки.md",
+    "Cytology/Цитоплазма и мембраны/Контакты (ONGOING).md",
+    "Cytology/Общее",
+    "Cytology/Цитоплазма и мембраны",
+    "Cytology/Цитоскелет",
+    "Рictures/IMG_20251019_122945 1.jpg",
+    "Рictures/IMG_20251019_122945.jpg",
+    "Рictures/IMG_20251019_122847.jpg",
+    "Рictures/Screenshot_2025-10-19-12-06-19-209_org.readera-edit.jpg",
     "Biochemistry КОЛОК/Билет 7.md",
+    "Biochemistry КОЛОК/Билет 4.md",
     "Biochemistry КОЛОК/Билет 6.md",
     "Biochemistry RU/Белки. Аминокислоты/Обмен азота. Пути синтеза аминокислот.md",
     "Билет 13.md",
@@ -204,43 +180,24 @@
     "Рictures/IMG_20251019_093051 1.jpg",
     "Рictures/IMG_20251019_094108.jpg",
     "Рictures/IMG_20251019_093051.jpg",
-    "Cytology/Функции мембраны.md",
     "Planner.md",
-    "Cytology/Цитоскелет (ONGOING).md",
     "Botany/Систематика.md",
     "Vertebrate zoology/Ланцетник.md",
     "Botany",
     "Рictures/IMG_20251018_182033.jpg",
-    "Рictures/IMG_20251018_180109.jpg",
-    "Рictures/IMG_20251018_174643.jpg",
-    "Рictures/IMG_20251018_173941.jpg",
-    "Рictures/Screenshot_2025-10-18-17-26-23-471_org.readera-edit.jpg",
     "Cytology/Цитоскелет (TO ADD MORE).md",
-    "Cytology/Основные гипотезы происхождения клетки.md",
-    "Cytology/Определение клетки.md",
-    "Cytology/Контакты (ONGOING).md",
+    "Cytology/Общее/Определение клетки.md",
     "Biochemistry RU/Белки. Аминокислоты/Белки. Структуры белка.md",
-    "Рictures/Untitled520_20251018125457.jpg",
-    "Рictures/IMG_20251018_114927.jpg",
     "Vertebrate zoology/Костные рыбы.md",
     "Vertebrate zoology/Хрящевые рыбы.md",
     "Vertebrate zoology/Миноги и миксины.md",
-    "Biochemistry КОЛОК/Билет 5.md",
-    "Biochemistry КОЛОК/Билет 3.md",
-    "Biochemistry КОЛОК/Билет 2.md",
     "Untitled.canvas",
     "Vertebrate zoology КОЛОК/Системы органов",
     "Vertebrate zoology КОЛОК",
-    "Билет 3.md",
-    "Билет 2 (ONGOING).md",
-    "Biochemistry RU/Белки. Аминокислоты/Ферменты.md",
     "Biochemistry КОЛОК",
     "Physiology/Мышцы",
     "Physiology/Физиология возбудимых тканей",
     "Physiology",
-    "Cytology",
-    "Biochemistry RU/Нуклеиновые кислоты",
-    "Biochemistry RU/Белки. Аминокислоты",
     "Pictures/Enzymes board.canvas",
     "Кукукукукукузураузкраразазазазза.canvas"
   ]
