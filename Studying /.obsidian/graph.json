@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "tag:#Botany  ",
+      "color": {
+        "a": 1,
+        "rgb": 8633709
+      }
     }
   ],
   "collapse-display": true,

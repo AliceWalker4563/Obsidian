@@ -1,14 +1,25 @@
 
-### Week
+### This week
 
 |     | mon   | tue       | wed   | thu       | fri   | sat |
 | --- | ----- | --------- | ----- | --------- | ----- | --- |
 | 2   | P_BJD | -         | P_ORG | P_ENG     | -     | -   |
 | 3   | L_BCH | L_CYT     | P_ORG | ==P_ZOO== | -     |     |
 | 4   |       | ==P_BCH== | -     | P_PHY     | P_PHY |     |
-| 5   |       |           | P_SVR |           | P_PHY |     |
-| 6   |       |           |       |           | ?     |     |
+| 5   |       |           | P_SVR | -         | P_PHY |     |
+| 6   |       | ВAD       |       | ВAD       | ?     |     |
 | 7   |       | ?         |       |           |       |     |
+### Next week
+
+|     | mon       | tue       | wed   | thu       | fri   | sat |
+| --- | --------- | --------- | ----- | --------- | ----- | --- |
+| 2   | L_PSY     | -         | P_ORG | P_ENG     | -     | -   |
+| 3   | L_BCH     | L_CYT     | P_ORG | ==P_ZOO== | -     |     |
+| 4   | ==P_BCH== | ==P_CYT== | -     | P_PHY     | P_INF |     |
+| 5   | ==P_BCH== | P_PSY     | P_SVR | -         |       |     |
+| 6   |           |           |       | ==P_FCJ== |       |     |
+| 7   |           |           |       | ==P_FCJ== |       |     |
+
 
 ---
 
