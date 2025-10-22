@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biochemistry КОЛОК/Билет 11. Расщепление белков.md",
+                "file": "Biochemistry КОЛОК/Билет 12 (ONGOING).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Билет 11. Расщепление белков"
+              "title": "Билет 12 (ONGOING)"
             }
           },
           {
@@ -27,15 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biochemistry RU/Белки. Аминокислоты/Аминокислоты.md",
+                "file": "Biochemistry КОЛОК/Билет 14е (ONGOING).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Аминокислоты"
+              "title": "Билет 14е (ONGOING)"
+            }
+          },
+          {
+            "id": "2d3730f1ddc3f6ab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +123,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Biochemistry КОЛОК/Билет 11. Расщепление белков.md",
+            "file": "Biochemistry КОЛОК/Билет 14г. Механизм катализа. Двухсубстратные реакции (Добавить рисунки двухсубстратных реакций).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -167,50 +178,49 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "115975688a4f82c1",
+  "active": "3d02d07a79893672",
   "lastOpenFiles": [
+    "Biochemistry КОЛОК/Билет 14ж. ММФФ. Изоферменты.md",
+    "Biochemistry RU/Белки. Аминокислоты/Ферменты.md",
+    "Biochemistry КОЛОК/Билет 14е (ONGOING).md",
+    "Screenshot_2025-10-22-20-45-29-132_cn.wps.moffice_eng.jpg",
     "Biochemistry RU/Белки. Аминокислоты/Ферментативная кинетика.md",
+    "Biochemistry КОЛОК/Билет 14д. Ферментативная кинетика.md",
+    "Biochemistry КОЛОК/Билет 14г. Механизм катализа. Двухсубстратные реакции.md",
+    "IMG_20251022_202441.jpg",
+    "IMG_20251022_202516.jpg",
+    "IMG_20251022_202531 1.jpg",
+    "IMG_20251022_202531.jpg",
+    "Biochemistry КОЛОК/Билет 14в. Классы ферментов.md",
+    "Biochemistry КОЛОК/Билет 14б. Активный центр. Кофакторы. Аллостерическая регуляция.md",
+    "Biochemistry КОЛОК/Билет 8. Нитрогеназа.md",
+    "Untitled526_20251022193641.jpg",
+    "IMG_20251022_191134.jpg",
+    "Untitled524.jpg",
+    "Biochemistry КОЛОК/Билет 1. Аминокислоты.md",
+    "Biochemistry RU/Белки. Аминокислоты/Обмен азота. Пути синтеза аминокислот.md",
+    "Biochemistry RU/Белки. Аминокислоты/Белки. Структуры белка.md",
+    "Biochemistry RU/Белки. Аминокислоты/Аминокислоты.md",
+    "Biochemistry КОЛОК/Билет 12 (ONGOING).md",
+    "Planner.md",
     "Biochemistry КОЛОК/Билет 11. Расщепление белков.md",
     "Biochemistry RU/Белки. Аминокислоты/Ферментативное расщепление белков.md",
-    "Biochemistry КОЛОК/Билет 14б (ONGOING).md",
-    "Biochemistry КОЛОК/Билет 12 (ONGOING).md",
-    "Biochemistry КОЛОК/Билет 14д (ONGOING).md",
-    "Biochemistry КОЛОК/Билет 14г. Механизм катализа. Двухсубстратные реакции (Добавить рисунки двухсубстратных реакций).md",
-    "Biochemistry КОЛОК/Билет 14в. Классы ферментов.md",
     "Biochemistry КОЛОК/Билет 9. Нитраты и нитриты.md",
     "Biochemistry КОЛОК/Билет 7. Цикл азота в биосфере.md",
-    "Biochemistry КОЛОК/Билет 8. Нитрогеназа (FeS кластеры добавить рисунок).md",
     "Biochemistry КОЛОК/Билет 6. Третичная и четвертичная структура белка.md",
     "Biochemistry КОЛОК/Билет 5. Вторичная и сверхвторичная структура белка.md",
     "Biochemistry КОЛОК/Билет 2. Белки. Гемоглобин.md",
     "Biochemistry КОЛОК/Билет 3. Свободные пептиды.md",
-    "Biochemistry КОЛОК/Билет 1. Аминокислоты.md",
-    "Biochemistry RU/Белки. Аминокислоты/Аминокислоты.md",
     "Отчёт бх данные силуфол.md",
-    "Biochemistry RU/Белки. Аминокислоты/Ферменты.md",
-    "Biochemistry КОЛОК/Билет 14ж (ONGOING).md",
-    "Biochemistry КОЛОК/Билет 14е (ONGOING).md",
     "Biochemistry КОЛОК/Билет 10. Пути синтеза аминокислот.md",
-    "Biochemistry КОЛОК/Билет 14a. Сходства и различия ферментов и других катализаторов.md",
-    "Biochemistry КОЛОК/Билет 13. Продукты азотного обмена. Орнитиновый цикл.md",
-    "Cytology БИЛЕТЫ/Список билетов по цитологии.md",
-    "Cytology БИЛЕТЫ/45. Теория эндосимбиоза (ADD MORE).md",
     "Cytology БИЛЕТЫ",
     "Cytology/Билеты",
     "Cytology/Конспекты",
     "Cytology/Цитоскелет",
     "Рictures/IMG_20251020_194454.jpg",
     "Рictures/Screenshot_2025-10-19-12-06-19-209_org.readera-edit.jpg",
-    "Рictures/IMG_20251019_094057.jpg",
-    "Рictures/IMG_20251019_125557 1.jpg",
-    "Рictures/IMG_20251019_125557.jpg",
     "Cytology/Общее",
     "Cytology/Цитоплазма и мембраны",
-    "Рictures/IMG_20251019_122945 1.jpg",
-    "Рictures/IMG_20251019_122945.jpg",
-    "Рictures/IMG_20251019_122847.jpg",
-    "Рictures/Screenshot_2025-10-19-12-06-19-209_org.readera-edit.jpg",
-    "Рictures/IMG_20251019_093051 1.jpg",
     "Botany",
     "Untitled.canvas",
     "Vertebrate zoology КОЛОК/Системы органов",
