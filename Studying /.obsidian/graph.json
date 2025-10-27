@@ -5,43 +5,8 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "tag: #Biochemistry  ",
-      "color": {
-        "a": 1,
-        "rgb": 12485826
-      }
-    },
-    {
-      "query": "tag:#Psychology  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "tag:#VertebrateZoology  ",
-      "color": {
-        "a": 1,
-        "rgb": 13074840
-      }
-    },
-    {
-      "query": "tag:#Cytology  ",
-      "color": {
-        "a": 1,
-        "rgb": 7530667
-      }
-    },
-    {
-      "query": "tag:#Physiology  ",
-      "color": {
-        "a": 1,
-        "rgb": 7109560
-      }
-    },
     {
       "query": "file:Planner",
       "color": {
@@ -50,23 +15,51 @@
       }
     },
     {
-      "query": "tag:#Botany  ",
+      "query": "file: biochemistry ",
       "color": {
         "a": 1,
-        "rgb": 8633709
+        "rgb": 13407441
+      }
+    },
+    {
+      "query": " file: zoology ",
+      "color": {
+        "a": 1,
+        "rgb": 15439510
+      }
+    },
+    {
+      "query": "file: physiology ",
+      "color": {
+        "a": 1,
+        "rgb": 8754662
+      }
+    },
+    {
+      "query": "file: psychology ",
+      "color": {
+        "a": 1,
+        "rgb": 15460509
+      }
+    },
+    {
+      "query": "file: cytology ",
+      "color": {
+        "a": 1,
+        "rgb": 9558990
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0.7,
-  "nodeSizeMultiplier": 2.09803427419355,
-  "lineSizeMultiplier": 5,
+  "nodeSizeMultiplier": 2.25362903225806,
+  "lineSizeMultiplier": 2.09412382392473,
   "collapse-forces": false,
-  "centerStrength": 0.586273521505376,
-  "repelStrength": 9.9403561827957,
-  "linkStrength": 0.638944892473118,
+  "centerStrength": 0.653225806451613,
+  "repelStrength": 11.9833669354839,
+  "linkStrength": 0.870127688172043,
   "linkDistance": 142,
-  "scale": 0.9956152186105953,
+  "scale": 0.745163885389677,
   "close": true
 }
