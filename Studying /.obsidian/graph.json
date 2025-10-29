@@ -25,14 +25,14 @@
       "query": " file: zoology ",
       "color": {
         "a": 1,
-        "rgb": 15439510
+        "rgb": 14591866
       }
     },
     {
       "query": "file: physiology ",
       "color": {
         "a": 1,
-        "rgb": 8754662
+        "rgb": 14917535
       }
     },
     {
@@ -60,6 +60,6 @@
   "repelStrength": 11.9833669354839,
   "linkStrength": 0.870127688172043,
   "linkDistance": 142,
-  "scale": 0.745163885389677,
+  "scale": 0.5578946225917711,
   "close": true
 }
