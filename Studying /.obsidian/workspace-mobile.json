@@ -8,49 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "806895443304bc91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сore/Physiology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Physiology"
-            }
-          },
-          {
-            "id": "d50f40ad5a1d69da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physiology/Физиология возбудимых тканей/Полярный закон.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Полярный закон"
-            }
-          },
-          {
-            "id": "0c4b08cfc15ae848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physiology/Физиология возбудимых тканей/Изменение возбудимости во время возбуждения.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Изменение возбудимости во время возбуждения"
-            }
-          },
-          {
-            "id": "a259e68769d7a6d6",
+            "id": "2bb8cdd9f613c4fa",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -59,8 +17,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,10 +149,20 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "a259e68769d7a6d6",
+  "active": "2bb8cdd9f613c4fa",
   "lastOpenFiles": [
-    "Physiology/Физиология возбудимых тканей/Полярный закон.md",
     "Сore/Physiology.md",
+    "Physiology/Физиология возбудимых тканей/Полярный закон.md",
+    "Сore/Cytology.md",
+    "Untitled",
+    "Cytology БИЛЕТЫ/30. Котрансляционный транспорт белков на мембранах гранулярного ЭПР.md",
+    "Cytology БИЛЕТЫ/10. Тубулиновая система.md",
+    "Cytology БИЛЕТЫ/Список билетов по цитологии.md",
+    "Cytology БИЛЕТЫ/3. Гипотезы происхождения клеток.md",
+    "Cytology БИЛЕТЫ/7. Мембрана. Жидкостно-мозаичная модель.md",
+    "Cytology БИЛЕТЫ/45. Теория эндосимбиоза.md",
+    "Biochemistry/First colloquium/Расщепление белков.md",
+    "Рictures/IMG_20251029_201527.jpg",
     "Сore/Psychology.md",
     "Physiology КОЛОК/Билеты по физиологии.md",
     "Physiology КОЛОК/Билет 5. КУД, ПД и локальный ответ.md",
@@ -213,16 +180,8 @@
     "Рictures/Untitled530_20251028173855.jpg",
     "Physiology/Физиология возбудимых тканей/Ионные каналы.md",
     "Physiology КОЛОК/Билет 1. Мембрана.md",
-    "Cytology/Цитоплазма и мембраны/Функции мембраны.md",
     "Рictures/Untitled529_20251028165000.jpg",
-    "Cytology/Цитоплазма и мембраны/Цитоплазма и строение биологических мембран.md",
     "Physiology КОЛОК",
-    "Psychology/Представление.md",
-    "Biochemistry RU/Нуклеиновые кислоты/Общая характеристика нуклеиновых кислот. Нуклеотиды (ONGOING).md",
-    "Biochemistry RU/Нуклеиновые кислоты/Матричные процессы (ONGOING).md",
-    "Сore/Biochemistry.md",
-    "Сore/Cytology.md",
-    "Biochemistry RU/Белки. Аминокислоты/Введение в биохимию.md",
     "Сore",
     "Рictures/IMG_20251027_114036.jpg",
     "Vertebrate zoology БИЛЕТЫ",
@@ -232,14 +191,12 @@
     "Рictures/Screenshot_2025-10-22-20-45-29-132_cn.wps.moffice_eng.jpg",
     "Рictures/IMG_20251022_202441.jpg",
     "Рictures/IMG_20251022_202516.jpg",
-    "Рictures/IMG_20251022_202531 1.jpg",
     "Cytology БИЛЕТЫ",
     "Cytology/Билеты",
     "Cytology/Конспекты",
     "Cytology/Цитоскелет",
     "Cytology/Общее",
     "Cytology/Цитоплазма и мембраны",
-    "Botany",
     "Untitled.canvas",
     "Pictures/Enzymes board.canvas",
     "Кукукукукукузураузкраразазазазза.canvas"

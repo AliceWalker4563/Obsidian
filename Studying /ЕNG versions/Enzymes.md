@@ -22,7 +22,7 @@
 $$
 \mathrm{E + S \rightleftharpoons ES \longrightarrow E + P}
 $$
-[[Biochemistry RU/Белки. Аминокислоты/Ферментативная кинетика|More detailed]]
+[[Biochemistry/Белки. Аминокислоты/Ферментативная кинетика|More detailed]]
 
 ---
 ### Specificity
