@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "ec7b0d9eea9848b4",
+            "id": "fd57213777ad285c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Organic chemistry КОЛОК/Carboxylic acids/derivatives.png"
+                "file": "ЕNG versions/Co-translational Protein Transport.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "derivatives"
+              "icon": "lucide-file",
+              "title": "Co-translational Protein Transport"
             }
           }
         ],
@@ -166,12 +168,14 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "ec7b0d9eea9848b4",
+  "active": "fd57213777ad285c",
   "lastOpenFiles": [
+    "Cytology БИЛЕТЫ/30. Котрансляционный транспорт белков на мембранах гранулярного ЭПР.md",
+    "ЕNG versions/Co-translational Protein Transport.md",
+    "Organic chemistry КОЛОК/Carboxylic acids/derivatives.png",
     "Botany/Систематика.md",
     "Psychology/Представление.md",
     "Biochemistry/First colloquium/Расщепление белков.md",
-    "Cytology БИЛЕТЫ/30. Котрансляционный транспорт белков на мембранах гранулярного ЭПР.md",
     "ENG task.md",
     "Screenshot_2025-10-30-10-06-20-408_org.readera-edit.jpg",
     "Cytology БИЛЕТЫ/3) Гипотезы происхождения клеток.md",
@@ -196,7 +200,6 @@
     "Physiology/Физиология возбудимых тканей/Потенциал действия.md",
     "Physiology КОЛОК/Билет 4. Потенциал действия.md",
     "Physiology/Физиология возбудимых тканей/Потенциал покоя.md",
-    "Physiology КОЛОК/Билет 3. Потенциал покоя. Формула Нернста.md",
     "Рictures/Untitled530_20251028173855.jpg",
     "Рictures/Untitled529_20251028165000.jpg",
     "Physiology КОЛОК",
@@ -207,7 +210,6 @@
     "Рictures/IMG_20251023_093307.jpg",
     "Рictures/IMG_20251023_092843.jpg",
     "Рictures/Screenshot_2025-10-22-20-45-29-132_cn.wps.moffice_eng.jpg",
-    "Рictures/IMG_20251022_202441.jpg",
     "Cytology БИЛЕТЫ",
     "Cytology/Билеты",
     "Cytology/Конспекты",
