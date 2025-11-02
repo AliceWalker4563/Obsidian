@@ -27,10 +27,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Organic chemistry КОЛОК/alcohols.png"
+                "file": "Organic chemistry КОЛОК/carbonyl_pt2.png"
               },
               "icon": "lucide-image",
-              "title": "alcohols"
+              "title": "carbonyl_pt2"
             }
           },
           {
@@ -121,6 +121,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Organic chemistry КОЛОК/carbonyl_pt2.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -177,11 +178,12 @@
   },
   "active": "9e71d7cf7d53f89c",
   "lastOpenFiles": [
+    "Organic chemistry КОЛОК/alcohols.png",
     "Organic chemistry КОЛОК/carbonyl_pt2.png",
+    "Organic chemistry КОЛОК/IMG_20251102_105818.png",
     "Organic chemistry КОЛОК/aldehydes_ketones.png",
     "Organic chemistry КОЛОК/derivatives.png",
     "Physiology/Нервная система/Нейроны.md",
-    "Organic chemistry КОЛОК/alcohols.png",
     "IMG_20251031_195337.jpg",
     "Untitled535_20251031203620.jpg",
     "Сore/Cytology.md",
@@ -204,7 +206,6 @@
     "Рictures/Untitled535_20251031202516.jpg",
     "Рictures/Untitled534_20251031200517 1.jpg",
     "Рictures/Untitled534_20251031200517.jpg",
-    "Рictures/IMG_20251031_195337.jpg",
     "Physiology/Мышцы/Физиология мышечного сокращения.md",
     "Physiology/Нервная система",
     "Сore/Psychology.md",
