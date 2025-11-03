@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 9558990
       }
+    },
+    {
+      "query": "file:botany ",
+      "color": {
+        "a": 1,
+        "rgb": 10211210
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +67,6 @@
   "repelStrength": 11.9833669354839,
   "linkStrength": 0.870127688172043,
   "linkDistance": 142,
-  "scale": 0.46635026921934775,
+  "scale": 0.4860498529182008,
   "close": true
 }
