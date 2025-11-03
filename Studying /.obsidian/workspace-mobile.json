@@ -8,33 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d694077c8402f0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сore/Cytology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cytology"
-            }
-          },
-          {
-            "id": "9e71d7cf7d53f89c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Organic chemistry КОЛОК/carbonyl_pt2.png"
-              },
-              "icon": "lucide-image",
-              "title": "carbonyl_pt2"
-            }
-          },
-          {
-            "id": "02f77b31ca7640a5",
+            "id": "dcb7bc24d311af05",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -43,8 +17,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,45 +149,45 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "9e71d7cf7d53f89c",
+  "active": "dcb7bc24d311af05",
   "lastOpenFiles": [
+    "Сore/Physiology.md",
+    "Physiology КОЛОК/Билеты по физиологии.md",
+    "Physiology КОЛОК/Билет 21 (ONGOING).md",
+    "Physiology КОЛОК/Билет 22 (ONGOING).md",
+    "Physiology КОЛОК/Билет 23 (ONGOING).md",
+    "Physiology КОЛОК/Билет 24 (ONGOING).md",
+    "Physiology КОЛОК/Билет 20 (ONGOING).md",
+    "Physiology КОЛОК/Билет 19 (ONGOING).md",
+    "Physiology КОЛОК/Билет 18. Синаптическая передача.md",
+    "Physiology/Нервная система/Синапсы.md",
+    "Physiology КОЛОК/Билет 2. Ионные каналы.md",
+    "Physiology КОЛОК/Билет 17. Синапсы.md",
+    "Рictures/IMG_20251102_162742.png",
+    "Physiology КОЛОК/Билет 1. Мембрана.md",
+    "Physiology/Нервная система/Нейроны.md",
+    "Physiology/Нервная система/Нервные волокна.md",
+    "Рictures/Untitled534_20251031200517.jpg",
+    "Рictures/IMG_20251031_195337 1.jpg",
+    "Сore/Cytology.md",
     "Organic chemistry КОЛОК/alcohols.png",
+    "Organic chemistry КОЛОК/haloalkanes.png",
+    "Organic chemistry КОЛОК/hydroxycarboxylic_acids.png",
     "Organic chemistry КОЛОК/carbonyl_pt2.png",
     "Organic chemistry КОЛОК/IMG_20251102_105818.png",
     "Organic chemistry КОЛОК/aldehydes_ketones.png",
     "Organic chemistry КОЛОК/derivatives.png",
-    "Physiology/Нервная система/Нейроны.md",
-    "IMG_20251031_195337.jpg",
-    "Untitled535_20251031203620.jpg",
-    "Сore/Cytology.md",
     "Сore/Biochemistry.md",
     "Cytology/Цитоскелет/Микрофибриллярная система (ONGOING).md",
     "Biochemistry/First colloquium/Цикл азота в биосфере.md",
     "Cytology/Общее/Основные гипотезы происхождения клетки.md",
-    "Сore/Physiology.md",
-    "Physiology КОЛОК/Билеты по физиологии.md",
     "Physiology КОЛОК/Билет 16. Нейрон. Строение и функции.md",
     "Physiology КОЛОК/Билет 15 (ONGOING).md",
     "Cytology БИЛЕТЫ/29. Строение и функции гЭПР эукариотической клетки.md",
     "Cytology БИЛЕТЫ/30. Котрансляционный транспорт белков на мембранах гранулярного ЭПР.md",
     "Cytology БИЛЕТЫ/28. Строение и функции шЭПР эукариотической клетки.md",
     "Cytology БИЛЕТЫ/3) Гипотезы происхождения клеток.md",
-    "Cytology БИЛЕТЫ/Список билетов по цитологии.md",
-    "Physiology КОЛОК/Билет 13. Виды сокращений. Тетанус.md",
-    "Physiology КОЛОК/Билет 14. Двигательная единица.md",
-    "Рictures/Untitled535_20251031203620.jpg",
-    "Рictures/Untitled535_20251031202516.jpg",
-    "Рictures/Untitled534_20251031200517 1.jpg",
-    "Рictures/Untitled534_20251031200517.jpg",
-    "Physiology/Мышцы/Физиология мышечного сокращения.md",
     "Physiology/Нервная система",
-    "Сore/Psychology.md",
-    "Physiology КОЛОК/Билет 10 (ONGOING).md",
-    "Physiology КОЛОК/Билет 11. Поперечнополосатые мышцы. Механизм сокращения.md",
-    "Physiology КОЛОК/Билет 12 (ONGOING).md",
-    "Physiology КОЛОК/Билет 9 (ONGOING).md",
-    "ЕNG versions/Co-translational Protein Transport.md",
-    "Botany/Систематика.md",
     "Physiology КОЛОК",
     "Сore",
     "Vertebrate zoology БИЛЕТЫ",
