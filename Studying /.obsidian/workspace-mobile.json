@@ -30,8 +30,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "6bb5e3a46f1ab34a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Organic chemistry/Oxygen-containing shit/alcohols.png"
+              },
+              "icon": "lucide-image",
+              "title": "alcohols"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Organic chemistry КОЛОК/carbonyl_pt2.png",
+            "file": "Organic chemistry КОЛОК/alcohols.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,23 +176,29 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "9aedfcea67282941",
+  "active": "2a7cd1bc432d78f7",
   "lastOpenFiles": [
+    "Organic chemistry/Oxygen-containing shit",
+    "Organic chemistry/Oxygen-containing shit/hydroxycarboxylic_acids.png",
+    "Organic chemistry/Oxygen-containing shit/nomenclature.png",
+    "Organic chemistry/haloalkanes.png",
+    "Organic chemistry/Oxygen-containing shit/esterification.png",
+    "Organic chemistry/Oxygen-containing shit/dicarboxylic_acids.png",
+    "Organic chemistry/Oxygen-containing shit/derivatives.png",
+    "Organic chemistry/Oxygen-containing shit/carbonyl_pt2.png",
+    "Organic chemistry/Oxygen-containing shit/aldehydes_ketones.png",
+    "Organic chemistry/Oxygen-containing shit/alcohols.png",
+    "Botany/Однодольные. Лилейные, Орхидные, Спаржевые.md",
     "Сore/Botany.md",
     "Сore/Psychology.md",
     "Сore/Physiology.md",
     "Untitled.md",
-    "Botany/Однодольные. Лилейные, Орхидные, Спаржевые.md",
-    "Untitled",
     "Pasted image 20251103155456.jpg",
     "Biochemistry/Нуклеиновые кислоты/Матричные процессы. Репликация (ONGOING).md",
     "Biochemistry/Нуклеиновые кислоты/Транскрипция и трансляция (ONGOING).md",
     "Сore/Biochemistry.md",
     "Biochemistry/Билеты второй колок.md",
-    "Рictures/IMG_20251103_110546.jpg",
-    "Рictures/IMG_20251103_105641.jpg",
     "Physiology/Мышцы/Физиология мышечного сокращения.md",
-    "Рictures/IMG_20251031_190645.jpg",
     "IMG_20251031_190645.jpg.md",
     "Physiology КОЛОК/Билет 6. Длительность стимула и аккомодация.md",
     "Physiology КОЛОК/Билеты по физиологии.md",
@@ -193,15 +212,8 @@
     "Physiology/Нервная система/Синапсы.md",
     "Physiology КОЛОК/Билет 2. Ионные каналы.md",
     "Physiology КОЛОК/Билет 17. Синапсы.md",
-    "Рictures/IMG_20251102_162742.png",
     "Physiology КОЛОК/Билет 1. Мембрана.md",
     "Physiology/Нервная система/Нейроны.md",
-    "Physiology/Нервная система/Нервные волокна.md",
-    "Рictures/Untitled534_20251031200517.jpg",
-    "Рictures/IMG_20251031_195337 1.jpg",
-    "Organic chemistry КОЛОК/alcohols.png",
-    "Organic chemistry КОЛОК/haloalkanes.png",
-    "Organic chemistry КОЛОК/hydroxycarboxylic_acids.png",
     "Physiology/Нервная система",
     "Physiology КОЛОК",
     "Сore",
