@@ -1,0 +1,2 @@
+
+The name of the article is "How Bacteria Become Drug-resistant". The text deals with the mechanisms by which bacteria develop resistance to antibiotics. The author points out that rare spontaneous mutations can make a bacterium immune to drugs. Further, the article goes on to say that some bacteria possess natural resistance or can acquire it by "infection" from another strain. The author concludes by saying that this fast spread of resistance often forces doctors to use multiple antibiotics to fight diseases. 

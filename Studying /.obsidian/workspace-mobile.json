@@ -4,43 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "cc17e93f6747e618",
+        "id": "0d94b85489d1ab60",
         "type": "tabs",
         "children": [
           {
-            "id": "9aedfcea67282941",
+            "id": "7c42a6e353585dda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Botany/Однодольные. Лилейные, Орхидные, Спаржевые.md",
+                "file": "Physiology/First colloquium/24. Взаимодействие нейронов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Однодольные. Лилейные, Орхидные, Спаржевые"
+              "title": "24. Взаимодействие нейронов"
             }
           },
           {
-            "id": "371dbac1cff51b94",
+            "id": "49daf41d248a240b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сore/Physiology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Physiology"
+            }
+          },
+          {
+            "id": "6a95e379bcc51a0a",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "6bb5e3a46f1ab34a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Organic chemistry/Oxygen-containing shit/alcohols.png"
-              },
-              "icon": "lucide-image",
-              "title": "alcohols"
             }
           }
         ],
@@ -121,7 +123,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Organic chemistry КОЛОК/alcohols.png",
+            "file": "Physiology КОЛОК/Билет 8. Рефрактерность, лабильность.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -176,8 +178,35 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "2a7cd1bc432d78f7",
+  "active": "6a95e379bcc51a0a",
   "lastOpenFiles": [
+    "Сore/Physiology.md",
+    "Physiology/First colloquium/24. Взаимодействие нейронов.md",
+    "Physiology/First colloquium/2. Ионные каналы.md",
+    "Сore/Cytology.md",
+    "Билет 15 (ONGOING).md",
+    "Билет 21 (ONGOING).md",
+    "Билет 23 (ONGOING).md",
+    "Physiology/First colloquium/3. Потенциал покоя. Формула Нернста.md",
+    "Physiology/First colloquium/4. Потенциал действия.md",
+    "Physiology/First colloquium/5. КУД, ПД и локальный ответ.md",
+    "Physiology/First colloquium/6. Длительность стимула и аккомодация.md",
+    "Physiology/First colloquium/7. Катод и анод.md",
+    "Physiology/First colloquium/8. Рефрактерность, лабильность.md",
+    "Physiology/First colloquium/11. Поперечнополосатые мышцы. Механизм сокращения.md",
+    "Physiology/First colloquium/13. Виды сокращений. Тетанус.md",
+    "Physiology/First colloquium/14. Двигательная единица.md",
+    "Physiology/First colloquium/16. Нейрон. Строение и функции.md",
+    "Physiology/First colloquium/17. Синапсы.md",
+    "Physiology/First colloquium/18. Синаптическая передача.md",
+    "Physiology/First colloquium/Topics first colloq.md",
+    "Physiology/First colloquium/Билет 23 (ONGOING).md",
+    "Physiology/First colloquium/Билет 22 (ONGOING).md",
+    "Physiology/First colloquium/Билет 21 (ONGOING).md",
+    "Physiology/First colloquium/Билет 20 (ONGOING).md",
+    "Physiology/First colloquium/Билет 19 (ONGOING).md",
+    "Physiology/First colloquium/Билет 15 (ONGOING).md",
+    "Organic chemistry/Oxygen-containing shit/alcohols.png",
     "Organic chemistry/Oxygen-containing shit",
     "Organic chemistry/Oxygen-containing shit/hydroxycarboxylic_acids.png",
     "Organic chemistry/Oxygen-containing shit/nomenclature.png",
@@ -187,35 +216,9 @@
     "Organic chemistry/Oxygen-containing shit/derivatives.png",
     "Organic chemistry/Oxygen-containing shit/carbonyl_pt2.png",
     "Organic chemistry/Oxygen-containing shit/aldehydes_ketones.png",
-    "Organic chemistry/Oxygen-containing shit/alcohols.png",
-    "Botany/Однодольные. Лилейные, Орхидные, Спаржевые.md",
-    "Сore/Botany.md",
-    "Сore/Psychology.md",
-    "Сore/Physiology.md",
-    "Untitled.md",
     "Pasted image 20251103155456.jpg",
-    "Biochemistry/Нуклеиновые кислоты/Матричные процессы. Репликация (ONGOING).md",
-    "Biochemistry/Нуклеиновые кислоты/Транскрипция и трансляция (ONGOING).md",
-    "Сore/Biochemistry.md",
-    "Biochemistry/Билеты второй колок.md",
-    "Physiology/Мышцы/Физиология мышечного сокращения.md",
-    "IMG_20251031_190645.jpg.md",
-    "Physiology КОЛОК/Билет 6. Длительность стимула и аккомодация.md",
-    "Physiology КОЛОК/Билеты по физиологии.md",
-    "Physiology КОЛОК/Билет 21 (ONGOING).md",
-    "Physiology КОЛОК/Билет 22 (ONGOING).md",
-    "Physiology КОЛОК/Билет 23 (ONGOING).md",
-    "Physiology КОЛОК/Билет 24 (ONGOING).md",
-    "Physiology КОЛОК/Билет 20 (ONGOING).md",
-    "Physiology КОЛОК/Билет 19 (ONGOING).md",
-    "Physiology КОЛОК/Билет 18. Синаптическая передача.md",
-    "Physiology/Нервная система/Синапсы.md",
-    "Physiology КОЛОК/Билет 2. Ионные каналы.md",
-    "Physiology КОЛОК/Билет 17. Синапсы.md",
-    "Physiology КОЛОК/Билет 1. Мембрана.md",
-    "Physiology/Нервная система/Нейроны.md",
     "Physiology/Нервная система",
-    "Physiology КОЛОК",
+    "Physiology/First colloquium",
     "Сore",
     "Vertebrate zoology БИЛЕТЫ",
     "Cytology БИЛЕТЫ",
