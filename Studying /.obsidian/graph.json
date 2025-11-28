@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:Planner",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "file: biochemistry ",
+      "color": {
+        "a": 1,
+        "rgb": 13407441
+      }
+    },
+    {
+      "query": " file: zoology ",
+      "color": {
+        "a": 1,
+        "rgb": 14591866
+      }
+    },
+    {
+      "query": "file: physiology ",
+      "color": {
+        "a": 1,
+        "rgb": 14917535
+      }
+    },
+    {
+      "query": "file: psychology ",
+      "color": {
+        "a": 1,
+        "rgb": 15460509
+      }
+    },
+    {
+      "query": "file: cytology ",
+      "color": {
+        "a": 1,
+        "rgb": 9558990
+      }
+    },
+    {
+      "query": "file:botany ",
+      "color": {
+        "a": 1,
+        "rgb": 10211210
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.7,
+  "nodeSizeMultiplier": 2.25362903225806,
+  "lineSizeMultiplier": 2.09412382392473,
+  "collapse-forces": false,
+  "centerStrength": 0.653225806451613,
+  "repelStrength": 11.9833669354839,
+  "linkStrength": 0.870127688172043,
+  "linkDistance": 142,
+  "scale": 0.3332495749028984,
+  "close": true
+}

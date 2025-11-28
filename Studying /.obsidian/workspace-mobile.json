@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "345c64c461ec60bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "36ab949f5901e34b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0456b091ebadda46",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "6e81ddc3d11eac16",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41affc1655bfcd3f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2a7cd1bc432d78f7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "39c3583223e85c88",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#Physiology",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "820035503ca7b863",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e2efc8bdd7b368f2",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "88718f8534e8081b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "354431ed2004a92f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Vertebrate zoology/Хрящевые рыбы.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "5c605c811696e487",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Biochemistry/Ферменты.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "e8122891372e26a3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Biochemistry/Ферменты.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true
+    }
+  },
+  "active": "2a7cd1bc432d78f7",
+  "lastOpenFiles": [
+    "Organic chemistry EXAM/THIRD COLOQ/hetero_all.png",
+    "Organic chemistry EXAM/THIRD COLOQ/hetero1.png",
+    "Vertebrate zoology/Тип Хордовые.md",
+    "Organic chemistry EXAM/THIRD COLOQ",
+    "Vertebrate zoology/Классификация типа Хордовые.md",
+    "Vertebrate zoology/Хрящевые рыбы.md",
+    "Vertebrate zoology/Ланцетник.md",
+    "Vertebrate zoology COLLOQ/Билет 1. Классификация типа Хордовые.md",
+    "Vertebrate zoology COLLOQ/Билеты по зоологии.md",
+    "Vertebrate zoology/Миноги и миксины.md",
+    "Untitled.md",
+    "Biochemistry/Матричные процессы и регуляция синтеза белка/Регуляция биосинтеза белка на этапе транскрипции.md",
+    "Сore/Biochemistry.md",
+    "Biochemistry/Матричные процессы и регуляция синтеза белка/Регуляция синтеза белка количеством генов и клеток.md",
+    "Biochemistry/Матричные процессы и регуляция синтеза белка/Транскрипция (ONGOING).md",
+    "Biochemistry/Матричные процессы и регуляция синтеза белка/Посттрансляционные события (ONGOING).md",
+    "Biochemistry/Матричные процессы и регуляция синтеза белка",
+    "Cytology EXAM/30. Котрансляционный транспорт белков на мембранах гранулярного ЭПР.md",
+    "Psychology/Методика преподавания биологии.md",
+    "Сore/Psychology.md",
+    "Psychology/Педагогика как наука.md",
+    "Транскрипция.md",
+    "E. 3, 5, 6, 8, 9.md",
+    "Рictures/Screenshot_2025-11-20-09-45-01-118_org.readera-edit.jpg",
+    "Рictures/Screenshot_2025-11-20-09-45-32-323_org.readera-edit.jpg",
+    "Рictures/Untitled540_20251120095435.jpg",
+    "Biochemistry/Нуклеиновые кислоты/ДНК. Структуры и их особенности (ONGOING).md",
+    "Cytology EXAM/Список билетов по цитологии.md",
+    "Vertebrate zoology/Костные рыбы.md",
+    "Psychology/Представление.md",
+    "Biochemistry/Нуклеиновые кислоты/Нуклеотиды.md",
+    "Biochemistry/Матричные процессы и регуляция синтеза белка/Трансляция (ONGOING).md",
+    "Рictures/Untitled537_20251110110333.jpg",
+    "Рictures/Untitled537_20251110105140.jpg",
+    "Рictures/seks.jpg",
+    "Рictures/nucleooooo.jpg",
+    "Рictures/bases.jpg",
+    "Organic chemistry EXAM/Oxygen-containing shit/alcohols.png",
+    "Organic chemistry EXAM/Oxygen-containing shit",
+    "Physiology/Нервная система",
+    "Physiology/First colloquium",
+    "Сore",
+    "Vertebrate zoology COLLOQ",
+    "Cytology EXAM",
+    "Cytology/Билеты",
+    "Cytology/Конспекты",
+    "Untitled.canvas",
+    "Pictures/Enzymes board.canvas",
+    "Кукукукукукузураузкраразазазазза.canvas"
+  ]
+}
