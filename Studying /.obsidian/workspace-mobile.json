@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0456b091ebadda46",
+            "id": "7927296bca29fdc0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "6e81ddc3d11eac16",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "image",
+              "state": {
+                "file": "Organic chemistry EXAM/THIRD COLOQ/hetero_all.png"
+              },
+              "icon": "lucide-image",
+              "title": "hetero_all"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Vertebrate zoology/Хрящевые рыбы.md",
+            "file": "Organic chemistry EXAM/THIRD COLOQ/hetero_all.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -160,9 +151,13 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "2a7cd1bc432d78f7",
+  "active": "7927296bca29fdc0",
   "lastOpenFiles": [
+    "Organic chemistry EXAM/haloalkanes.png",
+    "Organic chemistry EXAM/THIRD COLOQ/hetero_most_important.png",
     "Organic chemistry EXAM/THIRD COLOQ/hetero_all.png",
+    "Сore/Zoology.md",
+    "E. 3, 5, 6, 8, 9.md",
     "Organic chemistry EXAM/THIRD COLOQ/hetero1.png",
     "Vertebrate zoology/Тип Хордовые.md",
     "Organic chemistry EXAM/THIRD COLOQ",
@@ -184,7 +179,6 @@
     "Сore/Psychology.md",
     "Psychology/Педагогика как наука.md",
     "Транскрипция.md",
-    "E. 3, 5, 6, 8, 9.md",
     "Рictures/Screenshot_2025-11-20-09-45-01-118_org.readera-edit.jpg",
     "Рictures/Screenshot_2025-11-20-09-45-32-323_org.readera-edit.jpg",
     "Рictures/Untitled540_20251120095435.jpg",
@@ -193,13 +187,10 @@
     "Vertebrate zoology/Костные рыбы.md",
     "Psychology/Представление.md",
     "Biochemistry/Нуклеиновые кислоты/Нуклеотиды.md",
-    "Biochemistry/Матричные процессы и регуляция синтеза белка/Трансляция (ONGOING).md",
     "Рictures/Untitled537_20251110110333.jpg",
     "Рictures/Untitled537_20251110105140.jpg",
     "Рictures/seks.jpg",
     "Рictures/nucleooooo.jpg",
-    "Рictures/bases.jpg",
-    "Organic chemistry EXAM/Oxygen-containing shit/alcohols.png",
     "Organic chemistry EXAM/Oxygen-containing shit",
     "Physiology/Нервная система",
     "Physiology/First colloquium",

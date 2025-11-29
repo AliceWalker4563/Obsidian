@@ -21,8 +21,6 @@ Poison - to poison - poisonous
 
 # 6
 
-![[Screenshot_2025-11-20-09-45-01-118_org.readera-edit.jpg]]
-
 Ability to exploit 
 Aquatic habitat
 Land dweller
@@ -60,9 +58,6 @@ Avoid damage
 ---
 
 # 9
-
-
-![[Screenshot_2025-11-20-09-45-32-323_org.readera-edit.jpg]]
 
 The body temperature of amphibians depends on the environment temperature and humidity. 
 They differ in limited ability for distribution, moving and orientation on land. 
