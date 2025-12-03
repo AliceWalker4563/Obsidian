@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Organic chemistry EXAM/THIRD COLOQ/disaccharides.png"
+                "file": "Organic chemistry EXAM/Nitrogen-containing shit/hetero_most_important.png"
               },
               "icon": "lucide-image",
-              "title": "disaccharides"
+              "title": "hetero_most_important"
             }
           }
         ]
@@ -151,22 +151,23 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "7927296bca29fdc0",
+  "active": "2a7cd1bc432d78f7",
   "lastOpenFiles": [
-    "Organic chemistry EXAM/THIRD COLOQ/monosaccharides.png",
-    "Organic chemistry EXAM/THIRD COLOQ/disaccharides.png",
+    "Organic chemistry EXAM/Nitrogen-containing shit",
+    "Organic chemistry EXAM/Carbohydrates/monosaccharides.png",
+    "Organic chemistry EXAM/Carbohydrates/disaccharides.png",
+    "Organic chemistry EXAM/Nitrogen-containing shit/hetero_all.png",
+    "Organic chemistry EXAM/Nitrogen-containing shit/amen)))).png",
     "Organic chemistry EXAM/Oxygen-containing shit/derivatives.png",
-    "Organic chemistry EXAM/THIRD COLOQ/amen)))).png",
     "Organic chemistry EXAM/Oxygen-containing shit/hydroxycarboxylic_acids.png",
     "Organic chemistry EXAM/Oxygen-containing shit/dicarboxylic_acids.png",
-    "Organic chemistry EXAM/THIRD COLOQ/hetero_all.png",
     "Organic chemistry EXAM/haloalkanes.png",
-    "Organic chemistry EXAM/THIRD COLOQ/hetero_most_important.png",
+    "Organic chemistry EXAM/Nitrogen-containing shit/hetero_most_important.png",
     "Сore/Zoology.md",
     "E. 3, 5, 6, 8, 9.md",
     "Organic chemistry EXAM/THIRD COLOQ/hetero1.png",
     "Vertebrate zoology/Тип Хордовые.md",
-    "Organic chemistry EXAM/THIRD COLOQ",
+    "Organic chemistry EXAM/Carbohydrates",
     "Vertebrate zoology/Классификация типа Хордовые.md",
     "Vertebrate zoology/Хрящевые рыбы.md",
     "Vertebrate zoology/Ланцетник.md",
@@ -185,7 +186,6 @@
     "Сore/Psychology.md",
     "Psychology/Педагогика как наука.md",
     "Транскрипция.md",
-    "Рictures/Screenshot_2025-11-20-09-45-01-118_org.readera-edit.jpg",
     "Biochemistry/Нуклеиновые кислоты/ДНК. Структуры и их особенности (ONGOING).md",
     "Cytology EXAM/Список билетов по цитологии.md",
     "Vertebrate zoology/Костные рыбы.md",
