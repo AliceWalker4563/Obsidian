@@ -1,0 +1,7 @@
+
+- Class Amphibia includes vertebrates with dual life strategy. They can exploit both aquatic and terrestrial habitats. Most amphibians have biphasic life cycle with aquatic egg and larvae and terrestrial adults. However some of them are permanent land dwellers and some are aquatic species.
+- Class amphibia is divided into 3 orders. Anura (frogs, toads) - tailless with long strong hind limbs, Caudata (salamanders and newts) - aquatic and less specialized and Apoda (caecilians) - limbless, wormlike. 
+- Amphibians consume wide variety of food. Caecilians eat earthworms, frogs and toads feed on insects. Large species can eat mammals and bird. Anurans and salamanders locate prey by sight.
+- Toads are stout-bodied, with dry warty skin and short legs. They have poison-secreting glands on the back and behind the eyes. Most toads are terrestrial and nocturnal. They remain in their burrows during winter and drought. However, they can migrate 1.5 kilometers to find a suitable pond for breeding. 
+- Toad can secret a poison when they are disturbed. It irritates mucos membranes one predators. Poison of some toad can be lethal for comparatively big animals like dogs. The Chinese use poison to treat some ailments.
+- Frogs can survive when temperatures are below 0. They concentrate sugars in cytoplasm of their cells to prevent the formation of crystals. So when temperatures rise, they still alive and can thaw out. 
