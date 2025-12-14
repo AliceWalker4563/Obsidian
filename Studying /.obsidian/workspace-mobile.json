@@ -35,10 +35,12 @@
             "id": "502623a05912eeb0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "image",
+              "state": {
+                "file": "Organic chemistry EXAM/Hydrocarbs/cycles.png"
+              },
+              "icon": "lucide-image",
+              "title": "cycles"
             }
           }
         ],
@@ -176,10 +178,12 @@
   },
   "active": "502623a05912eeb0",
   "lastOpenFiles": [
-    "Organic chemistry EXAM/Hydrocarbs/alkAnes.png",
+    "Organic chemistry EXAM/Hydrocarbs/condensed_but_not_milk.png",
+    "Organic chemistry EXAM/Hydrocarbs/aromatherapy.png",
     "Physiology/Tests.md",
-    "Cytology/Цитоплазма и мембраны/Цитоплазма и строение биологических мембран.md",
     "Untitled.md",
+    "Organic chemistry EXAM/Hydrocarbs/alkAnes.png",
+    "Cytology/Цитоплазма и мембраны/Цитоплазма и строение биологических мембран.md",
     "Untitled.canvas",
     "Сore/Biochemistry.md",
     "Билеты второй колок.md",
@@ -211,10 +215,8 @@
     "Organic chemistry EXAM/Oxygen-containing shit/derivatives.png",
     "Organic chemistry EXAM/Oxygen-containing shit/hydroxycarboxylic_acids.png",
     "Organic chemistry EXAM/Oxygen-containing shit/dicarboxylic_acids.png",
-    "Organic chemistry EXAM/haloalkanes.png",
     "Сore/Zoology.md",
     "E. 3, 5, 6, 8, 9.md",
-    "Organic chemistry EXAM/THIRD COLOQ/hetero1.png",
     "Vertebrate zoology/Тип Хордовые.md",
     "Organic chemistry EXAM/Carbohydrates",
     "Biochemistry/Матричные процессы и регуляция синтеза белка",
