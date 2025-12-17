@@ -25,26 +25,16 @@
             "id": "f86d89dcdb8ed28c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "502623a05912eeb0",
-            "type": "leaf",
-            "state": {
               "type": "image",
               "state": {
-                "file": "Organic chemistry EXAM/Hydrocarbs/cycles.png"
+                "file": "Organic chemistry EXAM/Carbohydrates/disaccharides.png"
               },
               "icon": "lucide-image",
-              "title": "cycles"
+              "title": "disaccharides"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,12 +166,19 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "502623a05912eeb0",
+  "active": "f86d89dcdb8ed28c",
   "lastOpenFiles": [
+    "Organic chemistry EXAM/Carbohydrates/disaccharides.png",
+    "Organic chemistry EXAM/Carbohydrates/monosaccharides.png",
+    "Organic chemistry EXAM/Oxygen-containing shit/aldehydes_ketones.png",
+    "Organic chemistry EXAM/Oxygen-containing shit/carbonyl_pt2.png",
+    "Organic chemistry EXAM/Oxygen-containing shit/esterification.png",
+    "Organic chemistry EXAM/haloalkanes.png",
+    "Untitled.md",
+    "Physiology/Tests.md",
+    "Organic chemistry EXAM/Hydrocarbs/cycles.png",
     "Organic chemistry EXAM/Hydrocarbs/condensed_but_not_milk.png",
     "Organic chemistry EXAM/Hydrocarbs/aromatherapy.png",
-    "Physiology/Tests.md",
-    "Untitled.md",
     "Organic chemistry EXAM/Hydrocarbs/alkAnes.png",
     "Cytology/Цитоплазма и мембраны/Цитоплазма и строение биологических мембран.md",
     "Untitled.canvas",
@@ -208,13 +205,6 @@
     "Biochemistry/Нуклеиновые кислоты/Общая характеристика нуклеиновых кислот.md",
     "Organic chemistry EXAM/Nitrogen-containing shit/hetero_most_important.png",
     "Organic chemistry EXAM/Nitrogen-containing shit",
-    "Organic chemistry EXAM/Carbohydrates/monosaccharides.png",
-    "Organic chemistry EXAM/Carbohydrates/disaccharides.png",
-    "Organic chemistry EXAM/Nitrogen-containing shit/hetero_all.png",
-    "Organic chemistry EXAM/Nitrogen-containing shit/amen)))).png",
-    "Organic chemistry EXAM/Oxygen-containing shit/derivatives.png",
-    "Organic chemistry EXAM/Oxygen-containing shit/hydroxycarboxylic_acids.png",
-    "Organic chemistry EXAM/Oxygen-containing shit/dicarboxylic_acids.png",
     "Сore/Zoology.md",
     "E. 3, 5, 6, 8, 9.md",
     "Vertebrate zoology/Тип Хордовые.md",
