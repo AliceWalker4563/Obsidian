@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cb0168109b182bae",
+        "id": "8aa4b6c287fadea8",
         "type": "tabs",
         "children": [
           {
-            "id": "a208beb264932078",
+            "id": "eaf9a7177d6d4689",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сore/Biochemistry.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Biochemistry"
-            }
-          },
-          {
-            "id": "f86d89dcdb8ed28c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Organic chemistry EXAM/Carbohydrates/disaccharides.png"
-              },
-              "icon": "lucide-image",
-              "title": "disaccharides"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tests.md",
+            "file": "Cytology EXAM/Список билетов по цитологии.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,23 +149,39 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "f86d89dcdb8ed28c",
+  "active": "2a7cd1bc432d78f7",
   "lastOpenFiles": [
-    "Organic chemistry EXAM/Carbohydrates/disaccharides.png",
-    "Organic chemistry EXAM/Carbohydrates/monosaccharides.png",
-    "Organic chemistry EXAM/Oxygen-containing shit/aldehydes_ketones.png",
-    "Organic chemistry EXAM/Oxygen-containing shit/carbonyl_pt2.png",
-    "Organic chemistry EXAM/Oxygen-containing shit/esterification.png",
-    "Organic chemistry EXAM/haloalkanes.png",
-    "Untitled.md",
-    "Physiology/Tests.md",
-    "Organic chemistry EXAM/Hydrocarbs/cycles.png",
-    "Organic chemistry EXAM/Hydrocarbs/condensed_but_not_milk.png",
-    "Organic chemistry EXAM/Hydrocarbs/aromatherapy.png",
-    "Organic chemistry EXAM/Hydrocarbs/alkAnes.png",
-    "Cytology/Цитоплазма и мембраны/Цитоплазма и строение биологических мембран.md",
-    "Untitled.canvas",
     "Сore/Biochemistry.md",
+    "Промежуточные филаменты (ONGOING).md",
+    "Сore/Archive/Cytology/Cytology exam/45. Теория эндосимбиоза.md",
+    "Сore/Archive",
+    "Сore/Archive/Cytology/Cytology lectures",
+    "Сore/Archive/Cytology/Cytology exam/7. Мембрана. Жидкостно-мозаичная модель.md",
+    "Сore/Archive/Cytology/Cytology exam/3. Гипотезы происхождения клеток.md",
+    "Сore/Archive/Cytology/Cytology exam/10. Тубулиновая система.md",
+    "Сore/Archive/Cytology/Cytology exam/28. Строение и функции шЭПР эукариотической клетки.md",
+    "Сore/Archive/Cytology/Cytology exam/29. Строение и функции гЭПР эукариотической клетки.md",
+    "Сore/Archive/Cytology/Cytology exam/30. Котрансляционный транспорт белков на мембранах гранулярного ЭПР.md",
+    "Сore/Archive/Cytology/Cytology lectures/Цитоплазма и мембраны/Контакты (ONGOING).md",
+    "Cytology/Вакуолярная система (ONGOING).md",
+    "Сore/Archive/Cytology/Cytology lectures/Цитоскелет/Микрофибриллярная система (ONGOING).md",
+    "Cytology/Цитоскелет/Промежуточные филаменты (ONGOING).md",
+    "Cytology/Цитоскелет/Жгутики реснички всякие (ONGOING).md",
+    "Cytology EXAM/Список билетов по цитологии.md",
+    "Untitled.md",
+    "Organic chemistry EXAM/Oxygen-containing shit/nomenclature.png",
+    "Organic chemistry EXAM/Oxygen-containing shit/aldehydes_ketones.png",
+    "Organic chemistry EXAM/Carbohydrates/monosaccharides.png",
+    "Organic chemistry EXAM/Nitrogen-containing shit/hetero_all.png",
+    "Organic chemistry EXAM/haloalkanes.png",
+    "Organic chemistry EXAM/Nitrogen-containing shit/hetero_most_important.png",
+    "Organic chemistry EXAM/Nitrogen-containing shit/amen)))).png",
+    "Organic chemistry EXAM/Hydrocarbs/condensed_but_not_milk.png",
+    "Organic chemistry EXAM/Hydrocarbs/alkines.png",
+    "Organic chemistry EXAM/Hydrocarbs/alkEnes.png",
+    "Physiology/Tests.md",
+    "Сore/Archive/Cytology/Cytology lectures/Цитоплазма и мембраны/Цитоплазма и строение биологических мембран.md",
+    "Untitled.canvas",
     "Билеты второй колок.md",
     "Biochemistry/Матричные процессы и регуляция синтеза белка/Репликация.md",
     "Biochemistry/Матричные процессы и регуляция синтеза белка/Трансляция.md",
@@ -190,31 +189,15 @@
     "Biochemistry/Билеты второй колок.md",
     "Biochemistry/Матричные процессы и регуляция синтеза белка/Транскрипция и процессинг.md",
     "Biochemistry/Матричные процессы и регуляция синтеза белка/Регуляция биосинтеза белка на этапе транскрипции.md",
-    "Psychology/_Pedagogy/Методика преподавания биологии.md",
-    "Psychology/_Pedagogy/Педагогика как наука.md",
-    "Psychology/_Pedagogy",
-    "Psychology/_Psychology",
-    "Biochemistry/Матричные процессы и регуляция синтеза белка/Матричные процессы.md",
-    "Biochemistry/First colloquium/Активный центр. Кофакторы. Аллостерическая регуляция.md",
-    "Biochemistry/Нуклеиновые кислоты/Нуклеотиды.md",
-    "Biochemistry/Нуклеиновые кислоты/ДНК. Структуры и их особенности.md",
-    "Biochemistry/Белки. Аминокислоты/Аминокислоты.md",
-    "Biochemistry/Матричные процессы и регуляция синтеза белка/Регуляция синтеза белка количеством генов и клеток.md",
-    "Untitled 1.md",
-    "Biochemistry/Матричные процессы и регуляция синтеза белка/Посттрансляционные события (ONGOING).md",
-    "Biochemistry/Нуклеиновые кислоты/Общая характеристика нуклеиновых кислот.md",
-    "Organic chemistry EXAM/Nitrogen-containing shit/hetero_most_important.png",
+    "Сore/Archive/PsychPed)/_Pedagogy/Методика преподавания биологии.md",
+    "Сore/Archive/PsychPed)/_Pedagogy",
+    "Сore/Archive/PsychPed)/_Psychology",
     "Organic chemistry EXAM/Nitrogen-containing shit",
-    "Сore/Zoology.md",
-    "E. 3, 5, 6, 8, 9.md",
-    "Vertebrate zoology/Тип Хордовые.md",
     "Organic chemistry EXAM/Carbohydrates",
     "Biochemistry/Матричные процессы и регуляция синтеза белка",
     "Organic chemistry EXAM/Oxygen-containing shit",
     "Physiology/Нервная система",
     "Physiology/First colloquium",
-    "Сore",
-    "Vertebrate zoology COLLOQ",
     "Pictures/Enzymes board.canvas",
     "Кукукукукукузураузкраразазазазза.canvas"
   ]
