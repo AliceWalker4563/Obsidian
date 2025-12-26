@@ -11,10 +11,12 @@
             "id": "eaf9a7177d6d4689",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "image",
+              "state": {
+                "file": "Organic chemistry EXAM/resonance_structures.png"
+              },
+              "icon": "lucide-image",
+              "title": "resonance_structures"
             }
           }
         ]
@@ -94,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cytology EXAM/Список билетов по цитологии.md",
+            "file": "Organic chemistry EXAM/Nitrogen-containing shit/hetero_all.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -149,8 +151,15 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "2a7cd1bc432d78f7",
+  "active": "eaf9a7177d6d4689",
   "lastOpenFiles": [
+    "Organic chemistry EXAM/Nitrogen-containing shit/hetero_all.png",
+    "Organic chemistry EXAM/resonance_structures.png",
+    "Organic chemistry EXAM/Oxygen-containing shit/derivatives.png",
+    "Organic chemistry EXAM/Hydrocarbs/haloalkanes.png",
+    "Organic chemistry EXAM/Hydrocarbs/alkEnes.png",
+    "Organic chemistry EXAM/Hydrocarbs/alkAnes.png",
+    "Organic chemistry EXAM/Hydrocarbs/aromatherapy.png",
     "Сore/Biochemistry.md",
     "Промежуточные филаменты (ONGOING).md",
     "Сore/Archive/Cytology/Cytology exam/45. Теория эндосимбиоза.md",
@@ -172,13 +181,7 @@
     "Organic chemistry EXAM/Oxygen-containing shit/nomenclature.png",
     "Organic chemistry EXAM/Oxygen-containing shit/aldehydes_ketones.png",
     "Organic chemistry EXAM/Carbohydrates/monosaccharides.png",
-    "Organic chemistry EXAM/Nitrogen-containing shit/hetero_all.png",
-    "Organic chemistry EXAM/haloalkanes.png",
     "Organic chemistry EXAM/Nitrogen-containing shit/hetero_most_important.png",
-    "Organic chemistry EXAM/Nitrogen-containing shit/amen)))).png",
-    "Organic chemistry EXAM/Hydrocarbs/condensed_but_not_milk.png",
-    "Organic chemistry EXAM/Hydrocarbs/alkines.png",
-    "Organic chemistry EXAM/Hydrocarbs/alkEnes.png",
     "Physiology/Tests.md",
     "Сore/Archive/Cytology/Cytology lectures/Цитоплазма и мембраны/Цитоплазма и строение биологических мембран.md",
     "Untitled.canvas",
@@ -189,7 +192,6 @@
     "Biochemistry/Билеты второй колок.md",
     "Biochemistry/Матричные процессы и регуляция синтеза белка/Транскрипция и процессинг.md",
     "Biochemistry/Матричные процессы и регуляция синтеза белка/Регуляция биосинтеза белка на этапе транскрипции.md",
-    "Сore/Archive/PsychPed)/_Pedagogy/Методика преподавания биологии.md",
     "Сore/Archive/PsychPed)/_Pedagogy",
     "Сore/Archive/PsychPed)/_Psychology",
     "Organic chemistry EXAM/Nitrogen-containing shit",
