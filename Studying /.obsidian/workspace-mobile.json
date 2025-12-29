@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Organic chemistry EXAM/resonance_structures.png"
+                "file": "Сore/Archive/Organic chemistry/Oxygen-containing shit/esterification.png"
               },
               "icon": "lucide-image",
-              "title": "resonance_structures"
+              "title": "esterification"
             }
           }
         ]
@@ -151,15 +151,19 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "eaf9a7177d6d4689",
+  "active": "2a7cd1bc432d78f7",
   "lastOpenFiles": [
-    "Organic chemistry EXAM/Nitrogen-containing shit/hetero_all.png",
-    "Organic chemistry EXAM/resonance_structures.png",
-    "Organic chemistry EXAM/Oxygen-containing shit/derivatives.png",
-    "Organic chemistry EXAM/Hydrocarbs/haloalkanes.png",
-    "Organic chemistry EXAM/Hydrocarbs/alkEnes.png",
-    "Organic chemistry EXAM/Hydrocarbs/alkAnes.png",
-    "Organic chemistry EXAM/Hydrocarbs/aromatherapy.png",
+    "Сore/Archive/Organic chemistry/Carbohydrates/disaccharides.png",
+    "Сore/Archive/Organic chemistry/Carbohydrates/monosaccharides.png",
+    "Сore/Archive/Organic chemistry/Oxygen-containing shit/carbonyl_pt2.png",
+    "Сore/Archive/Organic chemistry/Hydrocarbs/alkEnes.png",
+    "Сore/Archive/Organic chemistry/Hydrocarbs/alkines.png",
+    "Сore/Archive/Organic chemistry/Hydrocarbs/aromatherapy.png",
+    "Сore/Archive/Organic chemistry/Hydrocarbs/cycles.png",
+    "Сore/Archive/Organic chemistry/Hydrocarbs/dienes.png",
+    "Сore/Archive/Organic chemistry/Nitrogen-containing shit/amen)))).png",
+    "Сore/Archive/Organic chemistry/Nitrogen-containing shit/hetero_all.png",
+    "Сore/Archive/Organic chemistry/resonance_structures.png",
     "Сore/Biochemistry.md",
     "Промежуточные филаменты (ONGOING).md",
     "Сore/Archive/Cytology/Cytology exam/45. Теория эндосимбиоза.md",
@@ -178,10 +182,6 @@
     "Cytology/Цитоскелет/Жгутики реснички всякие (ONGOING).md",
     "Cytology EXAM/Список билетов по цитологии.md",
     "Untitled.md",
-    "Organic chemistry EXAM/Oxygen-containing shit/nomenclature.png",
-    "Organic chemistry EXAM/Oxygen-containing shit/aldehydes_ketones.png",
-    "Organic chemistry EXAM/Carbohydrates/monosaccharides.png",
-    "Organic chemistry EXAM/Nitrogen-containing shit/hetero_most_important.png",
     "Physiology/Tests.md",
     "Сore/Archive/Cytology/Cytology lectures/Цитоплазма и мембраны/Цитоплазма и строение биологических мембран.md",
     "Untitled.canvas",
@@ -194,10 +194,10 @@
     "Biochemistry/Матричные процессы и регуляция синтеза белка/Регуляция биосинтеза белка на этапе транскрипции.md",
     "Сore/Archive/PsychPed)/_Pedagogy",
     "Сore/Archive/PsychPed)/_Psychology",
-    "Organic chemistry EXAM/Nitrogen-containing shit",
-    "Organic chemistry EXAM/Carbohydrates",
+    "Сore/Archive/Organic chemistry/Nitrogen-containing shit",
+    "Сore/Archive/Organic chemistry/Carbohydrates",
     "Biochemistry/Матричные процессы и регуляция синтеза белка",
-    "Organic chemistry EXAM/Oxygen-containing shit",
+    "Сore/Archive/Organic chemistry/Oxygen-containing shit",
     "Physiology/Нервная система",
     "Physiology/First colloquium",
     "Pictures/Enzymes board.canvas",
